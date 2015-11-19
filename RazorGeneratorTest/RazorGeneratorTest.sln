@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorGeneratorTest", "RazorGeneratorTest\RazorGeneratorTest.csproj", "{496C228E-4B02-47BB-828C-E3B36CB3EFE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsideASP.NET", "RazorGeneratorTest\InsideASP.NET.csproj", "{ACE282FA-53CA-4223-A052-7B83824EEEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{45F3CAAD-A167-4FCC-A5BB-2817BB236485}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{496C228E-4B02-47BB-828C-E3B36CB3EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{496C228E-4B02-47BB-828C-E3B36CB3EFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{496C228E-4B02-47BB-828C-E3B36CB3EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{496C228E-4B02-47BB-828C-E3B36CB3EFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE282FA-53CA-4223-A052-7B83824EEEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE282FA-53CA-4223-A052-7B83824EEEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE282FA-53CA-4223-A052-7B83824EEEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE282FA-53CA-4223-A052-7B83824EEEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F3CAAD-A167-4FCC-A5BB-2817BB236485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F3CAAD-A167-4FCC-A5BB-2817BB236485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F3CAAD-A167-4FCC-A5BB-2817BB236485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F3CAAD-A167-4FCC-A5BB-2817BB236485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
